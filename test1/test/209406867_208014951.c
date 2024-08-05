@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <time.h>
-afsdfsdfs
+
 #define MAX_THREADS 4
 
 typedef struct {
