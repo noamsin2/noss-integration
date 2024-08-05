@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <time.h>
-
+afsdfsdfs
 #define MAX_THREADS 4
 
 typedef struct {
@@ -138,7 +138,7 @@ int main() {
     printf("Sorted array (Multi-threaded): \n");
     printArray(arr, n);
     printf("Time taken by multi-threaded MergeSort: %f seconds\n", cpu_time_used);
-
+fdsf
     return 0;
 }
 
